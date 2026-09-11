@@ -236,4 +236,3 @@ En la capa de Service (a veces Repository, dependiendo de si el ID lo genera la 
 El id debe ser único y consistente con el sistema de persistencia (evitar colisiones, IDs duplicados o inventados).
 La fechaCreacion debe reflejar el momento real del servidor, no lo que el cliente diga (que podría mentir o tener el reloj mal configurado) — es una cuestión de integridad de los datos.
 
-¿Querés que armemos un quiz interactivo con estos temas para repasar, o preferís que profundicemos en algún ejercicio puntual (por ejemplo, DI con un ejemplo más completo, o validación con Zod en vez de a mano)?
